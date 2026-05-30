@@ -1,0 +1,6 @@
+{
+  "name": "QuickScanPro",
+  "description": "Professional, high-fidelity responsive QR code generator and designer. Customize colors, margins, error correction levels, and embed logos with vector SVG and lossless HTML5 canvas previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
